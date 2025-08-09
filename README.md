@@ -16,9 +16,9 @@ O projeto é desenvolvido em **TypeScript** e **React**, utilizando **WebSockets
 * 🧮 **Renderização LaTeX** com MathJax
 * 🖼 **Preview de PDFs e imagens** integrado
 * 🗃 **Kanban** para organizar backlog e tarefas
-* 🔗 **Compartilhamento por LAN** com sincronização em tempo real via Socket.IO
+* 🔗 **Compartilhamento por LAN** com sincronização em tempo real via WebSockets
 * 📦 **Armazenamento offline** de materiais e templates
-* 🎤 **Exportação de apresentações** em HTML leve (offline ou web)
+* 🎤 **Exportação de apresentações** em HTML leve (offline ou web) ou PDF (utilizando templates LaTeX)
 
 ---
 
