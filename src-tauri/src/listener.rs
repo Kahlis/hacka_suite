@@ -1,7 +1,7 @@
 use std::{collections::HashSet, thread, time::Duration};
 
 use device_query::{DeviceQuery, DeviceState, Keycode};
-use tauri::{AppHandle, Emitter, Manager};
+use tauri::{AppHandle, Manager};
 
 pub fn start_keyboard_listener(app_handle: AppHandle) {
     thread::spawn(move || {
